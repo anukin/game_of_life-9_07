@@ -4,3 +4,4 @@ RSpec::Core::RakeTask.new(:spec)
 
 desc "Run the default task"
 task :default => [:spec]
+
